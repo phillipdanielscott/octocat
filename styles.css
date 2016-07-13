@@ -1,0 +1,41 @@
+.octodex {
+  width:100%;
+  height:auto;
+}
+.octocat {
+  display:inline-block;
+  width: 33%;
+  height: auto;
+  }
+li.octocat > a > img {
+  border: 1px solid black;
+  width:95%;
+}
+.authors > li > a > img {
+  display: inline-block;
+  text-align: right;
+  width:33px;
+  height:33px;
+}
+
+ul.authors {
+padding: 0px;
+display: inline-block;
+}
+.image-footer {
+ display: inline-block;
+ width: 96%;
+}
+
+.image-caption {
+ display: inline-block;
+ width: 100%;
+ border-bottom: 1px solid black;
+ float: right;
+}
+li.authors {
+  float: right;
+}
+.authors{
+      float: right;
+}
